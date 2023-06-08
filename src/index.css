@@ -177,7 +177,45 @@ h5 {
 
 .social-media-icon {
   grid-area: footer-left;
-  height: 50px;
-  width: 50px;
+  height: 100px;
+  width: 100px;
 }
 
+.flowerbox h3 {
+  color: #92b2ba;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.flowerbox h3 {
+  color: #92b2ba;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.customer-service h3 {
+  color: #92b2ba;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.text1 {
+  text-align: left;
+  
+}
+
+p {
+  color: #777777;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.social-media {
+  margin: 40px;
+}
+h3 {
+  color: #ffb0b8;
+  font-size: 15px;
+  font-weight: 600;
+}
